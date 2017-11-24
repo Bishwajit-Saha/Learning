@@ -1,2 +1,2 @@
 # Learning
-# This repo is for practicing git commands
+This repo is for practicing git commands
